@@ -15,6 +15,6 @@ The pretrained model of this paper can be downloaded at [Glo_Loc](https://pan.ba
 /data includes all required data and pretrained models to extract features
 /Install all required packages, for example, pip install info-nce-pytorch
 ```
-Our implement is based on [MUSIC-AVQA](https://pages.github.com/) and [MIMN](https://github.com/xunan0812/MIMN). Thanks them for their contribution!
+Our implement is based on [MUSIC-AVQA](https://pages.github.com/) and [MIMN](https://github.com/xunan0812/MIMN). Thanks them for their contribution!！！
 ## Preliminary optimization results
-![image](https://github.com/zailongchen/Audio-Visual-Question-Answering-AVQA/blob/main/result%20images/result_0.png)
+![image](https://github.com/zailongchen/Audio-Visual-Question-Answering-AVQA/blob/main/result%20images/result_0.png）
